@@ -9,6 +9,10 @@ export default function App() {
     // add new text redux
     // add text develop
 const [state] = useState({})
+    const [test, setTest] = useState([])
+    useEffect(() => {
+        setTest(1)
+    },[])
     return (
         <div className='flex-main'>
            55
