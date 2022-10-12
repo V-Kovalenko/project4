@@ -5,10 +5,10 @@ import './App.css'
 export default function App() {
     // AUTHORIZATION
     // LOADING
-    //add-redux
-    // add new text redux
-    // add text develop
+
 const [state] = useState({})
+    const [user, setUser] = useState(0)
+    const [um, setum] = useState(0)
     return (
         <div className='flex-main'>
            55
