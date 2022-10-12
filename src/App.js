@@ -6,7 +6,6 @@ export default function App() {
     // AUTHORIZATION
     // LOADING
     //add-redux
-    // test
 const [state] = useState({})
     return (
         <div className='flex-main'>
