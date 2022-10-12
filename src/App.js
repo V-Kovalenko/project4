@@ -7,6 +7,7 @@ export default function App() {
     // LOADING
     //add-redux
     // add new text redux
+    // add text develop
 const [state] = useState({})
     return (
         <div className='flex-main'>
