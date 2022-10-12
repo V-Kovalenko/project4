@@ -3,6 +3,7 @@ import axios from "axios";
 import './App.css'
 
 export default function App() {
+    // AUTHORIZATION
 const [state] = useState({})
     return (
         <div className='flex-main'>
