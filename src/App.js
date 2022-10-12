@@ -4,6 +4,7 @@ import './App.css'
 
 export default function App() {
     // AUTHORIZATION
+    // LOADING
 const [state] = useState({})
     return (
         <div className='flex-main'>
